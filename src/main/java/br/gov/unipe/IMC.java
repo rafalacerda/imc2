@@ -1,13 +1,13 @@
 package br.gov.unipe;
 
 /**
- * Hello world!
+ * IMC
  *
  */
-public class App 
+public class IMC 
 {
-    public static void main( String[] args )
+    public static float main(float altura, float peso)
     {
-        System.out.println( "Hello World!" );
+        return peso/(altura/altura);
     }
 }
