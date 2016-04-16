@@ -1,5 +1,7 @@
 package br.gov.unipe;
 
+import br.gov.unipe.IMC;
+
 public class Exibicao {
 
 	public static void main(String[] args) {
